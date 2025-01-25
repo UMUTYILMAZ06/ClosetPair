@@ -26,11 +26,12 @@ Both approaches are animated using **scikit-learn**, providing a clear and dynam
 
 ## 🎥 Video Demonstrations  
 
+### Brute Force Visualization  
+[🎥 Watch Brute Force Visualization](videos/brute_force_visualization.mp4)  
+
 ### Recursive Visualization  
-<video controls width="600">  
-  <source src="videos/Video.mp4" type="video/mp4">  
-  Your browser does not support the video tag.  
-</video>
+[🎥 Watch Recursive Visualization](videos/Video.mp4)  
+
 ---
 
 ## 🖥️ How to Run  
