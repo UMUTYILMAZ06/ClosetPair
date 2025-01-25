@@ -26,11 +26,7 @@ Both approaches are animated using **scikit-learn**, providing a clear and dynam
 
 ## 🎥 Video Demonstrations  
 
-### Brute Force Visualization  
-[🎥 Watch Brute Force Visualization](videos/brute_force_visualization.mp4)  
-
 ### Recursive Visualization  
-[🎥 Watch Recursive Visualization](videos/Video.mp4)  
 
 ---
 
